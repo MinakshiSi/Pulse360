@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditService.API", "src\CreditService\CreditService.API\CreditService.API.csproj", "{7304D007-E469-207B-AAA7-5842DDDFA4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditService.Application", "src\CreditService\CreditService.Application\CreditService.Application.csproj", "{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditService.Domain", "src\CreditService\CreditService.Domain\CreditService.Domain.csproj", "{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditService.Infrastructure", "src\CreditService\CreditService.Infrastructure\CreditService.Infrastructure.csproj", "{25D83E0B-8500-6BD5-3802-CA549AB61DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel", "Shared\SharedKernel\SharedKernel.csproj", "{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Azure", "Shared\Shared.Azure\Shared.Azure.csproj", "{0F417380-D508-49C5-91D9-AE23E499753C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7304D007-E469-207B-AAA7-5842DDDFA4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7304D007-E469-207B-AAA7-5842DDDFA4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7304D007-E469-207B-AAA7-5842DDDFA4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7304D007-E469-207B-AAA7-5842DDDFA4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D83E0B-8500-6BD5-3802-CA549AB61DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D83E0B-8500-6BD5-3802-CA549AB61DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D83E0B-8500-6BD5-3802-CA549AB61DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D83E0B-8500-6BD5-3802-CA549AB61DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F417380-D508-49C5-91D9-AE23E499753C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F417380-D508-49C5-91D9-AE23E499753C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F417380-D508-49C5-91D9-AE23E499753C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F417380-D508-49C5-91D9-AE23E499753C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969B5678-5B8C-40DF-A2FB-5DAA699A510F}
+	EndGlobalSection
+EndGlobal

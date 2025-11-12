@@ -1,0 +1,11 @@
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+C:\Minakshi\PracticeSolution\Pulse360\Shared\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

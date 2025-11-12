@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Minakshi\\PracticeSolution\\Pulse360\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|solutionrelative:src\\creditservice\\creditservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|solutionrelative:src\\creditservice\\creditservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\storage\\blobstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\storage\\blobstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\messaging\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\messaging\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\secrets\\keyvaultprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\secrets\\keyvaultprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\extensions\\infrastructureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\extensions\\infrastructureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\data\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\data\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}|src\\CreditService\\CreditService.Application\\CreditService.Application.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.application\\extensions\\applicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}|src\\CreditService\\CreditService.Application\\CreditService.Application.csproj|solutionrelative:src\\creditservice\\creditservice.application\\extensions\\applicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}|src\\CreditService\\CreditService.Domain\\CreditService.Domain.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.domain\\entities\\creditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE112CE-95E9-987E-EA78-CD3EB9FD43A5}|src\\CreditService\\CreditService.Domain\\CreditService.Domain.csproj|solutionrelative:src\\creditservice\\creditservice.domain\\entities\\creditprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\creditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\creditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.infrastructure\\caching\\rediscacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D83E0B-8500-6BD5-3802-CA549AB61DBA}|src\\CreditService\\CreditService.Infrastructure\\CreditService.Infrastructure.csproj|solutionrelative:src\\creditservice\\creditservice.infrastructure\\caching\\rediscacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}|src\\CreditService\\CreditService.Application\\CreditService.Application.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.application\\creditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3245FBF0-1012-20E8-F1F7-04F26F5A0ADB}|src\\CreditService\\CreditService.Application\\CreditService.Application.csproj|solutionrelative:src\\creditservice\\creditservice.application\\creditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}|Shared\\SharedKernel\\SharedKernel.csproj|c:\\minakshi\\practicesolution\\pulse360\\shared\\sharedkernel\\caching\\icacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE4CDF5-0022-4C9C-A9C6-7922B9CB1FEB}|Shared\\SharedKernel\\SharedKernel.csproj|solutionrelative:shared\\sharedkernel\\caching\\icacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|c:\\minakshi\\practicesolution\\pulse360\\src\\creditservice\\creditservice.api\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7304D007-E469-207B-AAA7-5842DDDFA4E8}|src\\CreditService\\CreditService.API\\CreditService.API.csproj|solutionrelative:src\\creditservice\\creditservice.api\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F417380-D508-49C5-91D9-AE23E499753C}|Shared\\Shared.Azure\\Shared.Azure.csproj|c:\\minakshi\\practicesolution\\pulse360\\shared\\shared.azure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F417380-D508-49C5-91D9-AE23E499753C}|Shared\\Shared.Azure\\Shared.Azure.csproj|solutionrelative:shared\\shared.azure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobStorageProvider.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Storage\\BlobStorageProvider.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Storage\\BlobStorageProvider.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Storage\\BlobStorageProvider.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Storage\\BlobStorageProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:19:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceBusPublisher.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Messaging\\ServiceBusPublisher.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Messaging\\ServiceBusPublisher.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Messaging\\ServiceBusPublisher.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Messaging\\ServiceBusPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:17:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyVaultProvider.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Secrets\\KeyVaultProvider.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Secrets\\KeyVaultProvider.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Secrets\\KeyVaultProvider.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Secrets\\KeyVaultProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:14:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.API\\appsettings.json",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\appsettings.json",
+              "RelativeToolTip": "src\\CreditService\\CreditService.API\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T12:27:58.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.API\\Program.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\Program.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:24:06.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfrastructureServices.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Extensions\\InfrastructureServices.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Extensions\\InfrastructureServices.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Extensions\\InfrastructureServices.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Extensions\\InfrastructureServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA9wBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:23:35.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlDbContext.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Data\\SqlDbContext.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Data\\SqlDbContext.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Data\\SqlDbContext.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Data\\SqlDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:28:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServices.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Application\\Extensions\\ApplicationServices.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Application\\Extensions\\ApplicationServices.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Application\\Extensions\\ApplicationServices.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Application\\Extensions\\ApplicationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:44:14.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreditProfile.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Domain\\Entities\\CreditProfile.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Domain\\Entities\\CreditProfile.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Domain\\Entities\\CreditProfile.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Domain\\Entities\\CreditProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:00:36.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreditRepository.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\CreditRepository.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\CreditRepository.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\CreditRepository.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\CreditRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:36:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedisCacheProvider.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Caching\\RedisCacheProvider.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Infrastructure\\Caching\\RedisCacheProvider.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Infrastructure\\Caching\\RedisCacheProvider.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Infrastructure\\Caching\\RedisCacheProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:26:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreditService.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Application\\CreditService.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.Application\\CreditService.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Application\\CreditService.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.Application\\CreditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:24:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICacheProvider.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\shared\\SharedKernel\\Caching\\ICacheProvider.cs",
+              "RelativeDocumentMoniker": "shared\\SharedKernel\\Caching\\ICacheProvider.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\shared\\SharedKernel\\Caching\\ICacheProvider.cs",
+              "RelativeToolTip": "shared\\SharedKernel\\Caching\\ICacheProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:18:18.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditController.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\Controllers\\CreditController.cs",
+              "RelativeDocumentMoniker": "src\\CreditService\\CreditService.API\\Controllers\\CreditController.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.API\\Controllers\\CreditController.cs",
+              "RelativeToolTip": "src\\CreditService\\CreditService.API\\Controllers\\CreditController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:15:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Minakshi\\PracticeSolution\\Pulse360\\shared\\Shared.Azure\\Class1.cs",
+              "RelativeDocumentMoniker": "shared\\Shared.Azure\\Class1.cs",
+              "ToolTip": "C:\\Minakshi\\PracticeSolution\\Pulse360\\shared\\Shared.Azure\\Class1.cs",
+              "RelativeToolTip": "shared\\Shared.Azure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:14:57.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

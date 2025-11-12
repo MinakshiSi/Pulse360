@@ -1,0 +1,11 @@
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.deps.json
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.dll
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\bin\Debug\net8.0\CreditService.Domain.pdb
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.AssemblyInfoInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.AssemblyInfo.cs
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.csproj.CoreCompileInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.dll
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\refint\CreditService.Domain.dll
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\CreditService.Domain.pdb
+C:\Minakshi\PracticeSolution\Pulse360\src\CreditService\CreditService.Domain\obj\Debug\net8.0\ref\CreditService.Domain.dll

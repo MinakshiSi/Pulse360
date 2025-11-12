@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xR9Sz2R42F0=",
+  "success": true,
+  "projectFilePath": "C:\\Minakshi\\PracticeSolution\\Pulse360\\src\\CreditService\\CreditService.Application\\CreditService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u464605\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\u464605\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\u464605\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\u464605\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

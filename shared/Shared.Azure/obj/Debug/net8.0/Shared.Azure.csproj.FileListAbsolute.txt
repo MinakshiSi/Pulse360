@@ -1,0 +1,11 @@
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\bin\Debug\net8.0\Shared.Azure.deps.json
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\bin\Debug\net8.0\Shared.Azure.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\bin\Debug\net8.0\Shared.Azure.pdb
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.AssemblyInfoInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.AssemblyInfo.cs
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.csproj.CoreCompileInputs.cache
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\refint\Shared.Azure.dll
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\Shared.Azure.pdb
+C:\Minakshi\PracticeSolution\Pulse360\Shared\Shared.Azure\obj\Debug\net8.0\ref\Shared.Azure.dll
