@@ -2,6 +2,12 @@
 
 Pulse360 is a cloud-native, microservices-based platform that simulates enterprise-grade credit scoring, fraud detection, and real-time alerting. Built with .NET 8, Angular 21, and deployed across Azure services, it demonstrates secure, scalable, and observable architecture.
 
+![C#](https://img.shields.io/badge/language-C%23-green)
+![Angular](https://img.shields.io/badge/frontend-Angular-red)
+![Azure](https://img.shields.io/badge/cloud-Azure-blue)
+![Microservices](https://img.shields.io/badge/architecture-Microservices-purple)
+
+
 ## 🧠 Features
 
 - 🔐 Azure AD Authentication
