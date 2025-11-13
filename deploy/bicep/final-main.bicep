@@ -3,33 +3,6 @@ param environment string
 param tenantId string
 param objectId string
 
-module keyVault 'keyVault.bicep' = {
-  name: 'kvModule'
-  params: {
-    location: location
-    vaultName: 'credit-kv-${environment}'
-    tenantId: tenantId
-    objectId: objectId
-  }
-}
-
-module serviceBus 'serviceBus.bicep' = {
-  name: 'sbModule'
-  params: {
-    location: location
-    namespaceName: 'credit-sb-${environment}'
-    topicName: 'credit-events'
-  }
-}
-
-module storage 'storage.bicep' = {
-  name: 'storageModule'
-  params: {
-    location: location
-    storageName: 'creditstorage${environment}'
-  }
-}
-
 module appPlan 'appServicePlan.bicep' = {
   name: 'appPlan'
   params: {
@@ -42,8 +15,8 @@ module appService 'appService.bicep' = {
   name: 'appService'
   params: {
     location: location
-    appName: 'pulse360-api-${environment}-v2'
-    planName: 'pulse360-asp-${environment}'
+    appName: 'pulse360-api-${environment}'
+    planName: appPlan.name
   }
 }
 
@@ -78,7 +51,7 @@ module apim 'apim.bicep' = {
   name: 'apimModule'
   params: {
     location: location
-    apimName: 'pulse360-apimngmn-${environment}'
+    apimName: 'pulse360-apim-${environment}'
     publisherEmail: 'admin@pulse360.com'
     publisherName: 'Pulse360'
   }

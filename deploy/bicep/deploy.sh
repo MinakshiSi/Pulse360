@@ -1,15 +1,24 @@
 #!/bin/bash
 
 # === Parameters ===
+
+
 RESOURCE_GROUP="credit-rg-dev"
-LOCATION="eastus"
+LOCATION="southindia"
 ENVIRONMENT="dev"
-TENANT_ID="<your-tenant-id>"         # Replace with your Azure AD tenant ID
-OBJECT_ID="<your-object-id>"         # Replace with app registration or managed identity object ID
+IDENTITY_NAME="credit-mi-dev"
 
 # === Create Resource Group ===
 echo "Creating resource group: $RESOURCE_GROUP in $LOCATION..."
-az group create --name "$RESOURCE_GROUP" --location "$LOCATION"
+az group create -n $RESOURCE_GROUP --location $LOCATION
+
+az identity create \
+  --name $IDENTITY_NAME \
+  --resource-group $RESOURCE_GROUP \
+  --location $LOCATION
+
+TENANT_ID=$(az account show --query tenantId --output tsv)
+OBJECT_ID=$(az identity show -n $IDENTITY_NAME -g $RESOURCE_GROUP --query principalId -o tsv)
 
 # === Deploy Bicep Template ===
 echo "Deploying main.bicep..."

@@ -29,5 +29,8 @@ resource keyVault 'Microsoft.KeyVault/vaults@2023-07-01' = {
     enabledForDeployment: true
     enabledForTemplateDeployment: true
     enabledForDiskEncryption: false
+
+    // 🔒 Disable recovery features
+    enableSoftDelete: false
   }
 }
