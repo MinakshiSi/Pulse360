@@ -23,7 +23,7 @@ Pulse360 is a cloud-native, microservices-based platform that simulates enterpri
 
 ## 🧩 Architecture
 
-![Architecture Diagram](https://via.placeholder.com/800x400.png?text=Pulse360+Architecture)
+![Architecture Diagram](https://github.com/MinakshiSi/Pulse360/blob/master/docs/Pulse360-architecture-diagram.png?text=Pulse360+Architecture)
 
 ## 📦 Microservices
 
